@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CashLedgerSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c274de6aa4ca7695987b9822b8280b6f82f744f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed64c598376e41b5be789af302f90595041b3d33")]
 [assembly: System.Reflection.AssemblyProductAttribute("CashLedgerSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CashLedgerSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
