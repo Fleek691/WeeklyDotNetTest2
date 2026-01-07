@@ -1,0 +1,14 @@
+C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\bin\Debug\net10.0\CashLedgerSystem.exe
+C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\bin\Debug\net10.0\CashLedgerSystem.deps.json
+C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\bin\Debug\net10.0\CashLedgerSystem.runtimeconfig.json
+C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\bin\Debug\net10.0\CashLedgerSystem.dll
+C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\bin\Debug\net10.0\CashLedgerSystem.pdb
+C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\obj\Debug\net10.0\CashLedgerSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\obj\Debug\net10.0\CashLedgerSystem.AssemblyInfoInputs.cache
+C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\obj\Debug\net10.0\CashLedgerSystem.AssemblyInfo.cs
+C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\obj\Debug\net10.0\CashLedgerSystem.csproj.CoreCompileInputs.cache
+C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\obj\Debug\net10.0\CashLedgerSystem.dll
+C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\obj\Debug\net10.0\refint\CashLedgerSystem.dll
+C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\obj\Debug\net10.0\CashLedgerSystem.pdb
+C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\obj\Debug\net10.0\CashLedgerSystem.genruntimeconfig.cache
+C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\obj\Debug\net10.0\ref\CashLedgerSystem.dll
