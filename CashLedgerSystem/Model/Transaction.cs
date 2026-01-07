@@ -17,7 +17,7 @@ namespace CashLedgerSystem.Model
         /// <param name="date">Date</param>
         /// <param name="amount">Amount</param>
         /// <param name="description">Descirption</param>
-        public Transaction(int id,DateTime date,decimal amount,string description)
+        protected Transaction(int id,DateTime date,decimal amount,string description)
         {
             this.Id=id;
             this.Date=date;

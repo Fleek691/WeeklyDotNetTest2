@@ -14,7 +14,8 @@ namespace CashLedgerSystem.Model
         /// <param name="amount">Amount</param>
         /// <param name="description">Description</param>
         /// <param name="source">Source</param>
-        public IncomeTransactions(int id, DateTime date, decimal amount, string description,string source) : base(id, date, amount, description)
+        public IncomeTransactions(int id, DateTime date, decimal amount, string description,string source) : 
+                        base(id, date, amount, description)
         {
             this.Source=source;
         }

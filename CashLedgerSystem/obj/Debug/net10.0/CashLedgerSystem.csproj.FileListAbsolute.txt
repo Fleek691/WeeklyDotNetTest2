@@ -12,3 +12,4 @@ C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\obj\Debug\net10.0\refint\Cas
 C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\obj\Debug\net10.0\CashLedgerSystem.pdb
 C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\obj\Debug\net10.0\CashLedgerSystem.genruntimeconfig.cache
 C:\Users\avish\Desktop\WeeklyTest2\CashLedgerSystem\obj\Debug\net10.0\ref\CashLedgerSystem.dll
+C:\Users\avish\Desktop\WeeklyTest2\CashledgerSystem\obj\Debug\net10.0\CashLedgerSystem.sourcelink.json
